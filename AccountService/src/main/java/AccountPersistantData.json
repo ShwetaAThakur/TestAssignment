@@ -1,0 +1,13 @@
+{
+		"accountList": [{
+				"holderName" :"S.Y Nadkarni",
+				"accountNumber":"NL41ABNA098718882",
+				"balance" : "45.89"
+			},
+			{
+				"holderName" :"S.Y Thakur",
+				"accountNumber":"NL41ABNA098718890",
+				"balance" : "41115.89"
+		
+		}]
+}
